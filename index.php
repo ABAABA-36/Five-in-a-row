@@ -1470,7 +1470,7 @@
             // 勝利文字
             const victoryText = document.createElement('div');
             victoryText.className = 'victory-text';
-            victoryText.textContent = '� 大獲全勝 🎊';
+            victoryText.textContent = '🎊 大獲全勝 🎊';
             document.body.appendChild(victoryText);
 
             const colors = ['#ff0000', '#ff7700', '#ffff00', '#00ff00', '#00ffff', '#0077ff', '#ff00ff', '#ff69b4'];
@@ -1601,3 +1601,4 @@
     </script>
 </body>
 </html>
+
